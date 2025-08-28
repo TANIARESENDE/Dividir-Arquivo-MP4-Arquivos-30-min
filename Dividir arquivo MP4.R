@@ -61,4 +61,5 @@ split_video <- function(input_file, chunk_length = 30*60) {
 }
 
 # Exemplo de uso
-split_video("C:/Users/User/dwhelper/Bonus Responsabilidade Civil e IA.mp4")
+split_video("meu_video.mp4")
+
